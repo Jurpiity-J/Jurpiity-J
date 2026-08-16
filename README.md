@@ -1,5 +1,5 @@
 <h3 align="center">
-BSc IT Graduate | Cybersecurity Learner | Secure Web & Database Systems Builder
+BSc IT Student
 </h3>
 
 <p align="center">
@@ -15,9 +15,9 @@ BSc IT Graduate | Cybersecurity Learner | Secure Web & Database Systems Builder
 
 ## 👨‍💻 About Me
 
-I am a BSc IT graduate from South Africa with a strong interest in cybersecurity, secure software development and database-driven systems.
+I am a BSc IT student, South Africa with a strong interest in security, networks, software development and database-driven systems.
 
-My main focus is learning how real systems are built, broken, tested and secured. I am building or creating from problems or experiences that i am aware of.
+My main focus is to learning how real systems are built, broken, tested and secured. I am building/creating from problems or experiences that i am aware of.
 
 I am currently building my portfolio around:
 
@@ -27,14 +27,13 @@ I am currently building my portfolio around:
 - Log analysis and threat detection basics
 - Database design and SQL systems
 
-I am open to junior roles in cybersecurity, software development, database systems, IT support, and security-focused development.
+I am open to junior roles in cybersecurity, software development, database systems, IT support and security-focused development.
 
 ---
 
 ## 🔐 Cybersecurity Interests
 
 - Web application security
-- OWASP Top 10 fundamentals
 - Secure file upload validation
 - Authentication and access control
 - Log analysis and failed-login detection
@@ -46,8 +45,8 @@ I am open to junior roles in cybersecurity, software development, database syste
 
 ## 🚀 Current Focus
 
-- Improving my practical cybersecurity skills through labs and small projects
-- Building GitHub projects that show both development and security thinking
+- Improving my practical skills through labs and small projects
+- Building GitHub projects that will show development and security thinking
 - Learning how to write cleaner documentation and professional project reports
 - Strengthening my SQL, JavaScript, Python, and secure web development skills
 
