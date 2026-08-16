@@ -1,8 +1,13 @@
+<h1 align="center">Hi, I'm Junior 👋</h1>
+
 <h3 align="center">
-BSc IT Student
+BSc IT Student | Aspiring Cybersecurity & Software Professional
 </h3>
 
 <p align="center">
+  <a href="portfolio-i5bg.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome" />
+  </a>
   <a href="https://www.linkedin.com/in/jj-laphi/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -15,40 +20,24 @@ BSc IT Student
 
 ## 👨‍💻 About Me
 
-I am a BSc IT student, South Africa with a strong interest in security, networks, software development and database-driven systems.
+I am a BSc IT student from South Africa with an interest in **cybersecurity, software development, databases, networks, and secure system design**.
 
-My main focus is to learning how real systems are built, broken, tested and secured. I am building/creating from problems or experiences that i am aware of.
+I enjoy understanding how systems work, how they can fail, and how they can be designed more securely. My projects combine software development with security and database concepts to solve practical problems.
 
-I am currently building my portfolio around:
-
-- Cybersecurity fundamentals
-- Web application security
-- Secure file upload handling
-- Log analysis and threat detection basics
-- Database design and SQL systems
-
-I am open to junior roles in cybersecurity, software development, database systems, IT support and security-focused development.
+I am currently building practical experience through personal projects, technical labs, and continuous learning.
 
 ---
 
-## 🔐 Cybersecurity Interests
+## 🎯 Areas of Interest
 
-- Web application security
-- Secure file upload validation
-- Authentication and access control
-- Log analysis and failed-login detection
-- DOM-based XSS learning labs
-- Vulnerability research in controlled lab environments
-- Defensive coding and secure system design
-
----
-
-## 🚀 Current Focus
-
-- Improving my practical skills through labs and small projects
-- Building GitHub projects that will show development and security thinking
-- Learning how to write cleaner documentation and professional project reports
-- Strengthening my SQL, JavaScript, Python, and secure web development skills
+- Cybersecurity
+- Web Application Security
+- Secure Software Development
+- Full-Stack Development
+- Database Design & SQL
+- Network & System Fundamentals
+- Authentication & Access Control
+- Security Monitoring & Threat Detection
 
 ---
 
@@ -58,23 +47,26 @@ I am open to junior roles in cybersecurity, software development, database syste
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=openjdk" />
   <img src="https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql" />
 </p>
 
-### Web & App Development
+### Web & Application Development
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" />
   <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-black?style=for-the-badge&logo=tailwindcss" />
 </p>
 
 ### Databases & Backend
 
 <p>
+  <img src="https://img.shields.io/badge/PostgreSQL-black?style=for-the-badge&logo=postgresql" />
   <img src="https://img.shields.io/badge/Oracle-black?style=for-the-badge&logo=oracle" />
   <img src="https://img.shields.io/badge/Supabase-black?style=for-the-badge&logo=supabase" />
 </p>
@@ -91,52 +83,70 @@ I am open to junior roles in cybersecurity, software development, database syste
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-### 🛡️ Secure Upload Lab Suite
+### 🏛️ Tender-With-Us Platform
 
-A cybersecurity learning project demonstrating insecure and secure file upload handling.
+A full-stack public tender accountability platform designed to improve transparency throughout the procurement lifecycle.
 
-Includes mini labs such as:
+The platform supports tender publication, bid submission, tender awards, milestone tracking, evidence submission, milestone approval/rejection, payment records, accountability flags, and public project visibility.
 
-- Overwriting existing files
-- Client-side filter bypass
-- Weak extension blacklist validation
-- Magic-number-only validation
-- Secure CV upload example
+**Skills:** Next.js, TypeScript, Supabase, PostgreSQL, RLS, RBAC, secure file handling, Edge Functions, API integration.
 
-**Skills shown:** Web security, file validation, secure coding, OWASP-style thinking.
+[View Repository](https://github.com/Jurpiity-J/Tender-With-Us_Platform)
 
 ---
 
 ### 🏥 Ngisizeni Hospital Database System
 
-An Oracle SQL database project for managing hospital-related data such as patients, doctors, appointments, admissions, wards, beds, invoices, and payments.
+An Oracle SQL database system designed to manage hospital-related information including patients, doctors, appointments, admissions, wards, beds, invoices, and payments.
 
-**Skills shown:** Oracle SQL, relational database design, constraints, joins, views, indexing, reporting queries.
+The project demonstrates relational database design, SQL queries, constraints, joins, views, indexing, and reporting.
 
----
-
-### 🏛️ Public Tender Accountability Platform
-
-A full-stack public accountability platform concept focused on transparent tender management, milestone tracking, document handling, and public visibility.
-
-**Skills shown:** Next.js, Supabase, role-based access, secure uploads, accountability workflows, public-sector system design.
+**Skills:** Oracle Database, SQL, relational database design, normalization, constraints, views, indexing.
 
 ---
 
-## 📚 Learning Journey
+### 🛡️ Secure Upload Lab Suite
 
-I am currently improving in:
+A cybersecurity learning project focused on understanding insecure and secure file upload handling.
+
+The project explores different upload vulnerabilities and demonstrates how validation techniques can be bypassed or strengthened.
+
+**Skills:** Web security, file validation, secure coding, vulnerability analysis, OWASP-style security thinking.
+
+---
+
+## 🔐 Cybersecurity Focus
+
+My cybersecurity learning currently focuses on understanding both offensive and defensive concepts.
+
+Areas include:
 
 - Web application security
-- SQL and database optimization
-- Python for security automation
-- Git, GitHub, and professional documentation
+- Authentication & authorization
+- Secure file uploads
+- XSS vulnerabilities
+- Log analysis
+- Threat detection fundamentals
+- Vulnerability research in controlled environments
+- Secure application architecture
 
 ---
 
-## 📊 GitHub Stats
+## 📚 Currently Learning
+
+- Cybersecurity fundamentals
+- Secure web application development
+- SQL & database optimization
+- Python for automation
+- Networking fundamentals
+- Application security
+- Professional software development practices
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jurpiity-J&show_icons=true&theme=tokyonight" />
@@ -148,22 +158,30 @@ I am currently improving in:
 
 ---
 
-## 🎯 Career Direction
+## 💼 Career Direction
 
-My goal is to grow into a cybersecurity-focused IT professional who understands both how to build systems and how to secure them.
+I am looking to develop professionally in areas including:
 
-I am especially interested in roles such as:
+- Cybersecurity
+- Software Development
+- Security Engineering
+- Database Development
+- IT Support
+- Security-focused Web Development
+- Junior / Graduate IT roles
 
-- Junior Cybersecurity Analyst
-- Junior Security Engineer
-- SOC Analyst Intern
-- Junior Software Developer
-- Database Developer
-- IT Support Technician
-- Security-focused Web Developer
+My long-term goal is to become a cybersecurity-focused IT professional who understands both **how systems are built and how they can be secured**.
+
+---
+
+## 🌐 Portfolio
+
+My personal portfolio brings together my projects, technical skills, experience, and contact information.
+
+**Portfolio:**  portfolio-i5bg.vercel.app
 
 ---
 
 ## 💬 Personal Motto
 
-> The weakest point in any system is usually the thing everyone stopped questioning.
+> "The weakest point in any system is usually the thing everyone stopped questioning."
