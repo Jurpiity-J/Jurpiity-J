@@ -5,7 +5,7 @@ BSc IT Student | Aspiring Cybersecurity & Software Professional
 </h3>
 
 <p align="center">
-  <a href="portfolio-i5bg.vercel.app">
+  <a href="https://portfolio-i5bg.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=googlechrome" />
   </a>
   <a href="https://www.linkedin.com/in/jj-laphi/">
@@ -178,8 +178,7 @@ My long-term goal is to become a cybersecurity-focused IT professional who under
 
 My personal portfolio brings together my projects, technical skills, experience, and contact information.
 
-**Portfolio:**  portfolio-i5bg.vercel.app
-
+**Portfolio:**  https://portfolio-i5bg.vercel.app
 ---
 
 ## 💬 Personal Motto
